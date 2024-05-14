@@ -1,4 +1,4 @@
-# Computer Vision Course Assignment: Metric Learning with YouTube Commons Dataset
+# Computer Vision Course Assignment: Object Tracking using MOT20 Dataset
 
 ## Overview
 
